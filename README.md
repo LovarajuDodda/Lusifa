@@ -1,3 +1,3 @@
 # Lusifa
- Business consultancy website 
-Created a business consultancy website in my web development internship(minor project)
+ Business consultancy website (minor project) in web development internship
+
